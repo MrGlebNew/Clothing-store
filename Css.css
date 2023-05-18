@@ -60,7 +60,7 @@ body {
 	margin-left: 54%;
 }
 .background2 {
-	bottom: -2%;
+	bottom: -8%;
 	position: absolute;
 	filter: blur(4px);
 }
@@ -146,7 +146,7 @@ body {
 	font-family: "Roboto", "Arial", sans-serif;
 	bottom: -27%;
 	color: rgb(255, 106, 0);
-	margin-left: 184px;
+	margin-left: 195px;
 	font-size: 22px;
 	padding: 40px;
 }
@@ -203,14 +203,14 @@ body {
 .div {
 	background-color: rgba(251, 105, 2, 0.781);
 	width: 100%;
-	margin-top:82%;
+	margin-top:77%;
 	height: 18%;
 	margin-left: 0%;
 }
 .text7 {
 	position: absolute;
 	font-family: "Roboto", "Arial", sans-serif;
-	bottom: -76%;
+	bottom: -77%;
 	width: 30%;
 	color: rgb(255, 255, 255);
 	margin-left: 520px;
@@ -220,7 +220,7 @@ body {
 .text8 {
 	position: absolute;
 	font-family: "Roboto", "Arial", sans-serif;
-	bottom: -83%;
+	bottom: -85%;
 	width: 30%;
 	color: rgb(255, 255, 255);
 	margin-left: 499px;
@@ -228,7 +228,7 @@ body {
 	padding: 20px;
 }
 .T-shirts {
-	bottom: -662%;
+	bottom: -604.7%;
 	margin-left: -370px;
 	position: absolute;
 	width: 225px;
@@ -239,7 +239,7 @@ body {
 .text9 {
 	position: absolute;
 	font-family: "Roboto", "Arial", sans-serif;
-	bottom: -610%;
+	bottom: -560%;
 	width: 50%;
 	color: rgb(255, 255, 255);
 	margin-left: -315px;
@@ -334,19 +334,19 @@ body {
 	padding: 540px;
 }
 .Shorts {
-	bottom: -305%;
+	bottom: -303.3%;
 	margin-left: 1010px;
 	position: absolute;
 	border:8px solid rgba(251, 105, 2, 0.781);
 }
 .shorts2 {
-	bottom: -334.4%;
+	bottom: -334.7%;
 	margin-left: 1010px;
 	position: absolute;
 	border:8px solid rgba(251, 105, 2, 0.781);
 }
 .shorts3 {
-	bottom: -320%;
+	bottom: -321%;
 	margin-left: 1226px;
 	position: absolute;
 	border:8px solid rgba(251, 105, 2, 0.781);
